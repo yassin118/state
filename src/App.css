@@ -1,0 +1,22 @@
+.content img{
+  width: 400px;
+  border-radius: 50%;
+  margin-left: 20%;
+}
+.btn{
+  background: red;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  width: 150px;
+  height: 50px;
+  color: aliceblue;
+  margin-left: 28%;
+
+}
+.counter{
+  
+  background-color: rgb(251, 255, 0) ;
+  width: 25px;
+  margin-left: 30%;
+} 
